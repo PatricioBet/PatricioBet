@@ -56,9 +56,14 @@
 
 <div align="center">
   <a href="https://github.com/PatricioBet">
-    <img src="https://github-readme-stats.vercel.app/api?username=PatricioBet&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=777777" alt="GitHub Stats" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=PatricioBet&theme=transparent&hide_border=true&title_color=2563EB&text_color=777777&icon_color=2563EB&locale=es" alt="GitHub Streak" height="170" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/PatricioBet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatricioBet&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=777777" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatricioBet&bg_color=transparent&color=777777&line=2563EB&point=2563EB&area=true&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
 </div>
